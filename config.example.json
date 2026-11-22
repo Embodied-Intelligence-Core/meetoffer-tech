@@ -1,0 +1,5 @@
+{
+  "siteName": "MeetOffer Tech",
+  "passwordHash": "",
+  "note": "首次运行请复制本文件为 config.json，然后执行 npm run set-password 设置访问密码。仓库中不保存真实哈希。"
+}

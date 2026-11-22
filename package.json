@@ -1,0 +1,16 @@
+{
+  "name": "meetoffer-tech",
+  "version": "1.0.0",
+  "private": true,
+  "description": "全技术方向的技术情报站 · 服务端密码门禁 · 内容聚合自 GitHub 与一手技术文档",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "refresh": "node scripts/refresh-content.mjs",
+    "password": "node scripts/set-password.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
