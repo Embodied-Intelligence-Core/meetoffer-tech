@@ -2,7 +2,7 @@
 
 一个覆盖全技术方向的中文技术情报站：聚合 GitHub 高星项目与权威一手技术文档，只做**筛选、归类、导读**，所有条目直达原始出处。站点带服务端密码门禁，当前为邀请制访问。
 
-> 在线域名：`tech.meetoffer.cn` · 代码开源：本仓库 · 内容来源：互联网公开资料
+> 在线访问：<https://meetoffer-tech.app.workbuddy.host/?sharecode=NYXJCZXBZH>（计划绑定 `tech.meetoffer.cn`） · 代码开源：本仓库 · 内容来源：互联网公开资料
 
 ## 为什么做这个
 
